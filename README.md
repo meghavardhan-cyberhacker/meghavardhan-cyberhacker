@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @meghavardhan-cyberhacker
+- 👋 Hi, I’m @meghavardhan
 - 👀 I’m interested in hacking
 - 🌱 I’m currently learning cyber security
 - 💞️ I’m looking to collaborate on ...
